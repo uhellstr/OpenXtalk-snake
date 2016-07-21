@@ -8,7 +8,10 @@ Fully playable with scores
 Implementation
 
 The snake is made of a simple array (gcARR) where we keep track on the tail (the last pixel) and generate new pixels for
-the head that we add first to the array. For collission detection the code uses simple coordinate checks.
+the head that we add first to the array. For collission detection the code uses simple coordinate checks  and check the
+array for the snake's all pixel to see if the snake collides with itself.
+
+To move the snake we only add new pixel for the head and remove the last pixel for the tail and update the array.
 
 * Compiled and tested on OSX El Capitan and Linux (Debian 8 , Ubuntu/Peppermint 16.0.4/7, Fedora 23
 * Use keys "A" to move snake in a left pattern and "D" to move snake in a right pattern.
