@@ -5,7 +5,7 @@ THE CLASSIC SNAKE GAME
 
 Fully playable.
 
-* Compiled and tested on OSX Yosemity and Linux (Debian 8 , Ubuntu/Peppermint 16.0.4/7, Fedora 23
+* Compiled and tested on OSX El Capitan and Linux (Debian 8 , Ubuntu/Peppermint 16.0.4/7, Fedora 23
 
 
 TODO:
