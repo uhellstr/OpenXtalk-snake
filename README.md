@@ -1,4 +1,5 @@
-# livecode.snake
+# Snake game implemented in OpenXtalk
+
 The classic Snake game implemented in LiveCode 8.0 but now supports OpenXtalk due to LiveCode going full commersial and no longer
 support the community edition.
 
